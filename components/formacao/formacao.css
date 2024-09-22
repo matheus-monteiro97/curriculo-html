@@ -1,0 +1,23 @@
+#container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+}
+
+#formacao {
+    gap: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+#formacao h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+#iframe {
+    padding: 30px;
+}
